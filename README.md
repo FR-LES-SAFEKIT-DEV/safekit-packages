@@ -6,7 +6,6 @@ SafeKit is an all-in-one high availability software that combines real-time file
 
 > [!TIP]
 > **[⬇️ Download the latest version](https://github.com/FR-LES-SAFEKIT-DEV/safekit-packages/releases/latest)**
->
 
 ## Installation Packages
 
@@ -33,8 +32,8 @@ Each release includes the following PDF documents:
 - [Test Application and VM-Level High Availability](https://fr-les-safekit-dev.github.io/safekit-docs/resources/safekit-free-trial/)
 - [Quick Installation Guides](https://fr-les-safekit-dev.github.io/safekit-docs/quick-install/)
 - [Support (paid & free)](https://fr-les-safekit-dev.github.io/safekit-docs/resources/safekit-support/)
-- [Product site](https://safekit.eviden.com/)
+- [Training and Certification](https://fr-les-safekit-dev.github.io/safekit-docs/resources/safekit-on-line-training/)
 
 ---
 
-SafeKit is proprietary software by [Eviden](https://eviden.com). A free 30-day trial license is available.
+SafeKit is proprietary software by [Eviden](https://eviden.com/). A free 30-day trial license is available on the [product site](https://safekit.eviden.com/resources/safekit-free-trial/).
