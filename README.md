@@ -1,13 +1,12 @@
-# SafeKit Packages
+# SafeKit Packages & Documentation Download
 
-Official SafeKit high availability software packages and attached documentation.
+SafeKit high availability software packages and attached documentation.
 
 SafeKit is an all-in-one high availability software that combines real-time file replication, automatic failover, and load balancing — no shared storage (SAN) required.
 
 > [!TIP]
 > **[⬇️ Download the latest version](https://github.com/FR-LES-SAFEKIT-DEV/safekit-packages/releases/latest)**
 >
-
 
 ## Installation Packages
 
